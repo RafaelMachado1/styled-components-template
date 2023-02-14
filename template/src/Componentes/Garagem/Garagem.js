@@ -1,4 +1,4 @@
-import { Carro } from "../Carro";
+import { Carro } from "../Carro/Carro";
 import { BotaoLaranja, GaragemContainer, GaragemEstacionamento } from "./style";
 
 
